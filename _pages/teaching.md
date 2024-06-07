@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-Send me an e-mail if you're interested in working on a thesis or project with me!
+Send me an <a href= "mailto: nina.effenberger@uni-tuebingen.de"> e-mail</a> if you're interested in working on a thesis or project with me!
