@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I will present my work at the <a href="https://www.bdew-kongress.de/nachwuchs/science-corner/">BDEW science corner</a> in Berlin, on 05 July.
+I will present my work at the <a href="https://www.bdew-kongress.de/nachwuchs/science-corner/">BDEW science corner</a> in Berlin, on 05 June.
 

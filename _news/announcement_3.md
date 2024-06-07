@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk at ProbNum 24 in London, on 16 July. 
+I will give a talk at ProbNum 24 in London, on 15 July. 
