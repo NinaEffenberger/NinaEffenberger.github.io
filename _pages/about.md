@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cluster of Excellence Machine Learning, University of Tübingen.
+subtitle: PhD student at the University of Tübingen.
 
 profile:
   align: right
