@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Since July 2021 I am a PhD student in the research group “Machine Learning in Sustainable Energy Systems” within the Cluster of Excellence – Machine Learning for Science at the University of Tübingen. Furthermore, I am part of the International Max Planck Research School for Intelligent Systems (IMPRS-IS).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on developing probabilistic machine learning algorithms for wind power forecasting.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From March to July 2023, I joined the Weather Forecast Research Team at the University of British Columbia in Vancouver (Canada).
