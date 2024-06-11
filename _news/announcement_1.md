@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our abstract "Probabilistic Wind Speed Downscaling for Future Wind Power Assessment" got accepted at EGU.
+Our abstract <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-2034.html">Probabilistic Wind Speed Downscaling for Future Wind Power Assessment</a> got accepted at EGU.
