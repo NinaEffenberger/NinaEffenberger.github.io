@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I recently talked to Shannon Hall about the well-being in academia. <a href="https://www.nature.com/articles/d41586-024-02225-8">How PhD students and other academics are fighting the mental-health crisis in science</a> is now published in Nature's News Feature.
+I recently talked to Shannon Hall about well-being in academia. <a href="https://www.nature.com/articles/d41586-024-02225-8">How PhD students and other academics are fighting the mental-health crisis in science</a> is now published in Nature's News Feature.
