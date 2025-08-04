@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PostDoc at ETH Zürich.
+subtitle: PostDoc (she/her) at ETH Zürich.
 
 profile:
   align: right
