@@ -41,12 +41,16 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+{% if page.news and site.announcements.enabled %}
+  <div class="news-section" style="margin-bottom: 40px;"> <h2>
+      <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+    </h2>
+    
+    <div style="max-height: 260px; overflow-y: auto; padding-right: 15px; border-bottom: 1px solid var(--global-divider-color); margin-bottom: 20px">
+      {% include news.liquid %}
+    </div>
+  </div>
+{% endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
