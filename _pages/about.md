@@ -21,4 +21,4 @@ During my PhD, I was part of Nicole Ludwig's group <a href="https://www.mlsustai
 
 <!--My current research focuses on developing probabilistic machine learning algorithms for wind power forecasting. I am very interested in physics-informed machine learning and believe that choosing the right data is at least as crucial as choosing the right model. -->
 
-Additionally, I am trained in <a href="https://www.mentalhealthfirstaid.org">mental health first aid</a> and <a href="https://imprs.is.mpg.de/events/healthy-minds-kickoff">promote mental health</a> in academia. I am also an alumni of the PhD initiative <a href="http://www.sustainability-phd.com">sustainAbility</a>.
+Additionally, I am trained in <a href="https://www.mentalhealthfirstaid.org">mental health first aid</a> and <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103">promote mental health</a> in academia. I am also an alumni of the PhD initiative <a href="http://www.sustainability-phd.com">sustainAbility</a>.
