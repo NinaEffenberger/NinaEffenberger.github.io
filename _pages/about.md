@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Currently, I am a PostDoc in Reto Knutti's research group <a href="https://iac.ethz.ch/group/climate-physics.html">Climate Physics</a> at ETH Zürich. In my research, I use data to analyze the impact of climate change on renewable energy, with the goal of bridging the gaps between <span style="font-weight: bold;">climate science, machine learning, and energy modeling</span>. Please reach out to me in English or German if you're interested in these topics!
+Since 2025, I am a PostDoc in <a href="https://iac.ethz.ch/group/climate-physics.html">Climate Physics</a> with Reto Knutti at ETH Zürich. In my research, I use data to analyze the impact of climate change on renewable energy resources alongside other environmental risks like heatwaves, bridging the gaps between <span style="font-weight: bold;">climate science, machine learning, and impact modeling</span>. Please reach out to me in English or German if you're interested in these topics!
 
 During my PhD, I was part of Nicole Ludwig's group <a href="https://www.mlsustainableenergy.com">Machine Learning in Sustainable Energy Systems</a> at the University of Tübingen where I also joined the International Max Planck Research School for Intelligent Systems (<a href="https://imprs.is.mpg.de">IMPRS-IS</a>). As part of my PhD, I have conducted a half-year research stay with the <a href="https://wfrt.eoas.ubc.ca">Weather Forecast Research Team</a> at the University of British Columbia in Vancouver, Canada.
 
