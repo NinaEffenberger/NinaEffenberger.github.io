@@ -3,38 +3,62 @@
 
 @string{aps = {American Physical Society,}}
 
-@article{schmidt2026bridging,
-  title={Bridging the Gap Between Climate Science and Machine Learning in Climate Model Emulation},
-  abstract={Climate model emulation using machine learning has emerged as a powerful tool for understanding and predicting climate dynamics. However, the integration of climate science principles with machine learning techniques remains a challenge. This paper presents a comprehensive framework for bridging this gap, focusing on the development of interpretable and physically consistent emulators. We discuss the importance of incorporating domain knowledge into model architecture, training processes, and evaluation metrics. Case studies demonstrate the effectiveness of our approach in improving emulator performance and reliability, ultimately enhancing our ability to make accurate climate projections.},
-  author={Schmidt*, Luca and Effenberger*, Nina},
-  journal={arXiv preprint arXiv:2603.22320},
-  year={2026},
+
+@article{effenberger2026hybrid,
+  title={A hybrid machine learning-analog framework for downscaling unprecedented climate extremes},
+  abstract={Extreme weather events are critical for climate impact assessments. While physical models can simulate unprecedented extremes, for example, through ensemble boosting, this approach is computationally demanding, often restricting output to coarse spatial resolutions. Probabilistic generative downscaling offers a solution by enabling efficient sampling from the entire climate distribution, including its extreme tails. Here, we first demonstrate that machine learning generated regional climate model heatwaves over Paris are physically realistic. We then leverage an emulated machine learning dataset to perform analog-based downscaling of coarse global climate model ensemble boosting events. Our hybrid framework effectively bridges high-resolution regional detail with rare-event sampling, providing an efficient tool for extreme event downscaling and capturing multi-model uncertainty.},
+  author={Effenberger, Nina and Roemer, Florian E and Schillinger, Maybritt and Samarin, Maxim and Fischer, Erich and Knutti, Reto},
+  year={2026}, 
+  html = {https://arxiv.org/abs/2611.15284},
   selected={true},
-  html = {https://arxiv.org/abs/2603.22320}, 
-  preview = {position.png}
+  preview = {boosting.png}
 }
 
+@article{bloin2026understanding,
+  title={Understanding future extreme renewable energy droughts with ensemble boosting},
+  abstract={Renewable energy generation and electricity demand are highly weather-dependent, which means that decarbonizing and electrifying the energy system will increase its vulnerability to climate change and extremes. However, since extremes are rare, their effects on the energy system remain challenging to assess in currently available data sets. Here, we overcome this challenge by using ensemble boosting to efficiently sample physically consistent severe energy droughts. Energy droughts are identified by coupling climate simulations to an energy model based on net load, allowing us to directly investigate extremes with the highest system severity. We find that while climate change reduces energy drought severity in systems with high heating demand electrification, these systems are more vulnerable to very severe boosted energy droughts. Indeed, the severity of boosted energy droughts in such a system ranges from 37 to 230 TWh, even though their initial conditions are identical two weeks before event onset. Our results thus highlight the weather-induced unpredictability of net load in fully renewable systems and question the assumption of perfect foresight. In contrast, lower levels of heating electrification lead to shorter, more seasonally widespread extremes that are less affected by climate change, although the most severe energy droughts still occur in fall and winter. Regardless of electrification levels, wind speed deficits, seasonally low solar PV and the gradual depletion of hydropower storage over winter also contribute to the severity of the extreme renewable energy droughts studied. Our results demonstrate the power of ensemble boosting to inform future planning by uncovering system vulnerabilities.},
+  html = {https://essopenarchive.org/doi/pdf/10.22541/essoar.15012112/v1},
+  author={Bloin-Wibe, Luna and Beyerle, Urs and Effenberger, Nina and Fischer, Erich Markus and Wohland, Jan and Knutti, Reto},
+  year={2026}, 
+  preview = {drought_boosting.png},
+  selected={true},
+}
 @article{effenberger2026uncertainty,
   title={Uncertainty in wind and solar projections in the Alpine region depends on global and regional climate models},
   author={Effenberger, Nina and Knutti, Reto},
   abstract={Ensembles of regional-global climate model combinations show substantial spread in projected wind and solar resources. Using 31 RCM-GCM pairs, we quantify the sources of this spread in the Alpine region with a spatially and seasonally resolved variance decomposition, separating contributions from RCMs and GCMs. For both wind speed and solar radiation, RCMs dominate the variability in the absolute historical fields. In contrast, projected changes in wind speed are largely controlled by the driving GCMs, except in mountainous regions where RCM-induced variance becomes larger than that induced by GCMs. For solar radiation, contributions are strongly season-dependent, with RCMs dominating in summer and GCMs in winter. Our findings support that GCM and RCM variability together define the uncertainty of wind and solar climate projections. This provides guidance for designing climate model ensembles that better support uncertainty-aware energy system decisions under climate change.},
   journal={Environmental Research Communications},
   year={2026},
-  selected={true},
+  selected={false},
   html = {https://iopscience.iop.org/article/10.1088/2515-7620/ae9136/meta}, 
   preview = {0057_overview_anova.png}
 }
 
 @article{effenberger2025bridging,
-  title={Bridging CORDEX and CMIP6: Machine Learning Downscaling for Wind and Solar Energy Droughts in Central Europe},
+  title={Bridging CORDEX and CMIP6: Machine learning downscaling for wind and solar energy droughts in Central Europe},
   abstract={Reliable regional climate information is essential for assessing the impacts of climate change and for planning in sectors such as renewable energy; yet, producing high-resolution projections through coordinated initiatives like CORDEX that run multiple physical regional climate models is both computationally demanding and difficult to organize. Machine learning emulators that learn the mapping between global and regional climate fields offer a promising way to address these limitations. Here we introduce the application of such an emulator: trained on CMIP5 and CORDEX simulations, it reproduces regional climate model data with sufficient accuracy. When applied to CMIP6 simulations not seen during training, it also produces realistic results, indicating stable performance. Using CORDEX data, CMIP5 and CMIP6 simulations, as well as regional data generated by two machine learning models, we analyze the co-occurrence of low wind speed and low solar radiation and find indications that the number of such energy drought days is likely to decrease in the future. Our results highlight that downscaling with machine learning emulators provides an efficient complement to efforts such as CORDEX, supplying the higher-resolution information required for impact assessments.},
   author={Effenberger, Nina and Samarin, Maxim and Schillinger, Maybritt and Knutti, Reto},
-  journal={arXiv preprint arXiv:2512.07429},
-  year={2025},
+  journal={Machine Learning: Earth},
+  volume={2},
+  number={2},
+  pages={025020},
+  year={2026},
+  publisher={IOP Publishing},
+  html={https://iopscience.iop.org/article/10.1088/3049-4753/aea998/meta},
+  preview = {cordex_cmip6.png}, 
   selected={true},
-  html = {https://arxiv.org/abs/2512.07429}, 
-  preview = {cordex_cmip6.png}
 }
+
+@article{schmidt2026bridging,
+  title={How can machine learning emulators best support climate science?},
+  abstract={Climate model emulation using machine learning has emerged as a powerful tool for understanding and predicting climate dynamics. However, the integration of climate science principles with machine learning techniques remains a challenge. This paper presents a comprehensive framework for bridging this gap, focusing on the development of interpretable and physically consistent emulators. We discuss the importance of incorporating domain knowledge into model architecture, training processes, and evaluation metrics. Case studies demonstrate the effectiveness of our approach in improving emulator performance and reliability, ultimately enhancing our ability to make accurate climate projections.},
+  author={Schmidt*, Luca and Effenberger*, Nina and Benson, Vitus and Bommer, Philine L. and Brunstein, Robert and Legasa, Mikel N. and Samarin, Maxim and Schillinger, Maybritt},
+  year={2026},
+  selected={true},
+  html = {https://arxiv.org/abs/2603.22320}, 
+  preview = {position.png}
+}
+
 
 @article{morelli2025climate,
   title={Climate data selection for multi-decadal wind power forecasts},
